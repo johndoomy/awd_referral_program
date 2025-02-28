@@ -8,7 +8,7 @@ function App() {
           src="https://content.app-sources.com/s/78612958735963643/uploads/Images/awdlogo-0006921.png?format=webp"
           alt="AWD Logo"
         />
-        <a href="tel" className="my-auto underline text-blue-500">
+        <a href="tel:+17204409751" className="my-auto underline text-blue-500">
           720-440-9751
         </a>
       </div>
