@@ -1,4 +1,4 @@
-import image from '../images/referralflyer.jpeg';
+import image from '../images/awdFlyer.png';
 
 function Main() {
   return (
