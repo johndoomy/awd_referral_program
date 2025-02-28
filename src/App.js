@@ -13,7 +13,7 @@ function App() {
           720-440-9751
         </a>
       </div>
-      <div className="mt-2 sm:mx-12 md:mx-20 lg:mx-48 flex justify-center">
+      <div className="mt-2 sm:mx-12 md:mx-24 lg:mx-80 flex justify-center">
         <Main />
       </div>
     </div>
